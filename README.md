@@ -373,7 +373,7 @@ If you use simseR in your research, please cite:
 **Bright Boamah**
 - GitHub: [@brightboamah](https://github.com/Brig-Bayo)
 - Email: briteboafo@icloud.com
-- LinkedIn: [Bright Boamah](https://linkedin.com/in/brightboamah)
+- LinkedIn: [Bright Boamah](https://www.linkedin.com/in/bright-b-boamah/)
 
 ---
 
